@@ -1,4 +1,8 @@
-To create a wallet run in linux cmd
+for windows miner go here down load windows binarys 
+https://github.com/Hansen333/Hansen33-s-DERO-Miner/releases
+
+
+To create a wallet run in linux cmd (for windows simply change the name of the mine for examle dero-miner-windows-amd64.exe )
 ./dero-wallet-cli-linux-amd64 --rpc-server --rpc-bind 0.0.0.0:10103 --daemon-address=148.163.68.4:9999
 
 after wallet is created
