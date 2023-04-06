@@ -1,0 +1,11 @@
+{"L":"INFO","T":"2023-04-06T17:22:37.155+0100","N":"wallet","C":"dero-wallet-cli/main.go:169","M":"DERO Wallet  :  It is an alpha version, use it for testing/evaluations purpose only."}
+{"L":"INFO","T":"2023-04-06T17:22:37.155+0100","N":"wallet","C":"dero-wallet-cli/main.go:170","M":"Copyright 2017-2021 DERO Project. All rights reserved."}
+{"L":"INFO","T":"2023-04-06T17:22:37.156+0100","N":"wallet","C":"dero-wallet-cli/main.go:171","M":"","OS":"linux","ARCH":"amd64","GOMAXPROCS":3}
+{"L":"INFO","T":"2023-04-06T17:22:37.156+0100","N":"wallet","C":"dero-wallet-cli/main.go:172","M":"","Version":"3.5.2-113.DEROHE.STARGATE+01102022"}
+{"L":"DEBUG","T":"2023-04-06T17:22:37.156+0100","N":"wallet","C":"dero-wallet-cli/main.go:173","M":"","Arguments":{"--allow-rpc-password-change":false,"--daemon-address":"148.163.68.4:9999","--debug":false,"--electrum-seed":null,"--generate-new-wallet":null,"--help":false,"--offline":false,"--offline_datafile":null,"--password":null,"--prompt":false,"--remote":false,"--restore-deterministic-wallet":false,"--rpc-bind":"0.0.0.0:10103","--rpc-login":"testing:Camilla11","--rpc-server":true,"--save-every-x-seconds":null,"--scan-top-n-blocks":null,"--socks-proxy":null,"--testnet":false,"--unlocked":false,"--version":false,"--wallet-file":null}}
+{"L":"INFO","T":"2023-04-06T17:22:37.156+0100","N":"wallet","C":"dero-wallet-cli/main.go:175","M":"","MODE":"mainnet"}
+{"L":"INFO","T":"2023-04-06T17:22:37.156+0100","N":"wallet","C":"dero-wallet-cli/main.go:254","M":"Wallet RPC","username":"testing","password":"Camilla11"}
+{"L":"ERROR","T":"2023-04-06T17:22:44.390+0100","N":"wallet","C":"dero-wallet-cli/easymenu_pre_open.go:73","M":"Error occurred while opening wallet file","filename":"testing","error":"File 'testing' does NOT exists"}
+{"L":"INFO","T":"2023-04-06T17:23:24.713+0100","N":"wallet","C":"dero-wallet-cli/easymenu_pre_open.go:130","M":"Successfully recovered wallet from seed"}
+{"L":"INFO","T":"2023-04-06T17:23:24.713+0100","N":"wallet","C":"dero-wallet-cli/easymenu_pre_open.go:263","M":"Starting RPC server","address":"0.0.0.0:10103"}
+{"L":"INFO","T":"2023-04-06T17:23:24.713+0100","N":"walletrpc","C":"rpcserver/rpc_websocket_server.go:162","M":"Wallet RPC/Websocket server starting","address":"0.0.0.0:10103"}

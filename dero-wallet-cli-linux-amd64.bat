@@ -1,0 +1,1 @@
+./dero-wallet-cli-linux-amd64 --rpc-server --rpc-bind 0.0.0.0:10103 --rpc-login der:******* --wallet-file wallet.db --daemon-address=148.163.68.4:9999
